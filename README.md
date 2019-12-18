@@ -1,2 +1,2 @@
 # DS
-Data science projects-practice
+Data science projects
